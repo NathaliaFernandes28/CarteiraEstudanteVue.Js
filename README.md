@@ -14,26 +14,35 @@ são espelhados automaticamente na parte estática do projeto ao mesmo tempo em 
 🚀 Funcionalidades
 
 Campo de entrada para o nome do estudante.
+
 Campo de entrada para a matrícula do estudante.
+
 Exibição prévia do nome e matrícula na carteirinha.
+
 Espaço reservado para inserção de foto.
 
 🛠️ Tecnologias Utilizadas
 
 Vue.js: Framework progressivo para construção de interfaces de usuário.
+
 HTML5 e CSS3: Estruturação e estilização da página.
+
 JavaScript: Lógica da aplicação.
 
 🧰 Pré-requisitos
 
-Link do CDN do Vue.js
+Link do CDN do Vue.js.
+
 VsCode instalado na máquina.
+
 Git para controle de versão.
-Conhecimento prévio de Html e Css
+
+Conhecimento prévio de Html e Css.
 
 🌟 Customização
 
 Atualize o design no arquivo CSS.
+
 Adicione funcionalidades extras como upload de foto ou exportação da carteirinha para PDF.
 
 📄 Licença
