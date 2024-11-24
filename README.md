@@ -1,4 +1,4 @@
-Carteirinha do Estudante 📚
+📚 Carteirinha do Estudante 
 
 Este é um projeto desenvolvido em Vue.js, para fins de aprendizado, que permite criar uma carteirinha de estudante com nome, matrícula e foto.
 
